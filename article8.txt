@@ -1,0 +1,54 @@
+Tom's Hardware is supported by its audience. When you purchase through links on our site, we may earn an affiliate commission. Here’s why you can trust us.
+If you're seeking extreme PCIe 4.0 performance and high capacity, you now have a real option — if you can afford it. The Rocket 4 Plus at 8TB is envelope-pushing with TLC flash and, despite some performance hiccups, it's the fastest 8TB SSD we've tested. 
++ Very high capacity
++ TLC flash, not QLC
++ Performance in absolute terms
+High price
+Some performance pitfalls
+Why you can trust Tom's Hardware 
+
+
+Our expert reviewers spend hours testing and comparing products and services so you can choose the best for you. Find out more about how we test.
+Sabrent's Rocket 4 Plus family has long been a favorite for performance seekers, but the new 8TB model ups the ante with extreme capacity courtesy of 112-layer BiCS5 flash, promising to take high-performance, high-capacity SSD storage to the next level as it vies for a spot on our list of Best SSDs. 
+Sabrent made a name for itself in the SSD market with the original Rocket, a ubiquitous SSD based on Phison’s competitive E12 SSD controller. The company has since enhanced its portfolio with an array of new drives, including the Rocket 4.0 and models with QLC flash, like the Rocket Q and the Rocket Q4.
+But perhaps Sabrent is best known for its penchant for pushing the capacity limits with SSDs like the 4TB Rocket, the 8TB Rocket Q, and the 16TB Thunderbolt dock that includes two 8TB SSDs. The Rocket Q Battleship also hosts up to eight of those 8TB drives with a HighPoint RAID controller, providing a total of 64TB of flash storage. 
+However, plenty of demanding users want higher capacities with their consumer SSDs but don’t want to compromise with lower-endurance and lower-performance QLC flash. So if the drive can use TLC flash and still push the limits of PCIe 4.0 technology, all the better. Those users are in luck as Sabrent now offers this 8TB version of the high-performance Rocket 4 Plus, and it comes with 112-layer BiCS5 TLC flash that the company didn't use in the original SKUs.
+
+Putting this much storage capacity, especially with TLC flash, on an M.2 drive has lots of challenges that require tough design decisions to ensure the drive is reliable and remains within spec. Nevertheless, it's nice to see a company willing to reach this high on the capacity front. Let's see if the extreme capacity comes with performance compromises.
+The 8TB Sabrent Rocket 4 Plus is a standard M.2 2280, PCIe 4.0/NVMe 1.4 drive. It’s rated for up to 7/6 GBps of sequential read/write throughput, which is a comparatively slight 100/600 MBps slower than the 4TB model. The SDD is rated for 700,000 random read IOPS and a peak of 1,000,000 IOPS for random writes.
+
+This drive has a nominal one-year warranty that you can extend to five years with registration. Endurance matches expectations at 6PBW (petabytes written), meaning it can absorb 6 petabytes of write data. Even with 8TB of flash, that's more than enough for the vast majority of users.
+
+We see a surprise with pricing at an MSRP of $1,999.99, or about $0.25 a gigabyte. This premium stems from the challenges of cramming 8TB of TLC onto an M.2 stick. Additionally, if you absolutely need this level of performance and capacity, there is simply no competition at the moment.
+One of the things we like about Sabrent is that their drives come with software. This includes three items: Acronis True Image, the Rocket Control Panel, and the Rocket Sector Size Converter. The OEM copy of Acronis allows users to clone their drive, which is useful when upgrading to a new drive. The Rocket Control Panel is similar to SSD toolboxes from other manufacturers, offering monitoring information and firmware updates. Finally, the Sector Size Converter allows you to format the drive in either 512e or 4Kn.
+The original Sabrent Rocket came formatted as 4Kn with 4kB logical and physical sector sizes, which caused some issues for users trying to clone from 512e drives with a 512B logical sector size. Later drives came as 512e from the factory, but Sabrent also began offering a tool to allow users to format as they please. The 4Kn advanced format is more efficient with space usage and can improve performance for an SSD, although it’s more typically utilized in the enterprise space.
+The Rocket 4 Plus’s familiar copper sheen, as presented by its heatspreader, hides the anticipated Phison E18 controller. The back label offers basic details such as the model, serial numbers, and capacity. With both removed, eight NAND and two DRAM packages are visible, half of each on either side of the double-sided PCB. The PCB itself is black, and we can also spot the PMIC near the controller as it happens to stand out against that backdrop.
+
+The Phison E18 SSD controller has proven to be quite the contender even when burdened by 64 dies. This one seems to have been manufactured during the 28th week of 2021. It’s likely the firmware has been optimized for this NAND as well as for managing that many dies.
+The DRAM is labeled H5AN8G6NCJ by SK hynix - the “8G” lets us identify it as an 8Gbit or 1GB package while the “6” implies a 16-bit configuration, therefore 512M x 16b. As the other side of the PCB has another one of these packages, the total DRAM cache amount is 2GB. This should be more than sufficient for consumer use even with 8TB of storage. Looking up the designation, we discover this is DDR4, which can offer some power savings over DDR3.
+
+The flash is labeled TA8IG85AYV with 8Tb or 1TB NAND packages. This should be in an 8DP configuration (eight dies per package). This means we have a total of 64 dies, and each die is 1Tb (128GB). This is quite dense for TLC but has been seen before and will be again; flash is only getting denser as the layer count increases. The rest of the designation tells us this is 112-layer BiCS5 from Kioxia.
+This flash is more or less equivalent to 128-layer TLC from other manufacturers, such as that found on the 980 Pro by Samsung or on the Gold P31 by SK hynix. BiCS5 should come with a bit lower latency than the old 96-layer BiCS4 flash that’s been used in many products and often as an alternative to Micron’s 96-layer B27B TLC. We’ve seen good results from it on the SN570 and, especially, the SN770.
+Kioxia originally demonstrated the technical specifications for BiCS5 at ISSCC 2019. The original design was a 128-layer quad-plane design with a CMOS-under-Array (CuA) configuration. However, the BiCS we tested here is a 112-layer dual-plane design without CuA. These compromises suggest a bigger focus on production efficiency (density and yield), which explains the 1Tb dies used here. These characteristics have potentially impacted other drives by WD that have had their flash upgraded or replaced.
+The changes to BiCS5 are an important consideration when comparing this particular SKU to the older Rocket 4 Plus SKUs that were upgraded to 176-layer B47R TLC from Micron. This is, in fact, also a crucial bit of information when comparing to QLC of the same density that will have twice the planes and CuA in place.
+MORE: Best SSDs
+MORE: How We Test HDDs And SSDs
+MORE: All SSD Content
+
+Current page:
+
+Features and Specifications
+
+
+Shane Downing is a Freelance Reviewer for Tom’s Hardware US, covering consumer storage hardware.
+Best Graphics Card Deals: Cheap Nvidia and AMD GPUs
+RTX 4080 Too Expensive? Gamers Say Otherwise, as Cards Sell Out Within an Hour
+Thermaltake Cycledesk 100 Targets Cycling eSports Market
+Get instant access to breaking news, in-depth reviews and helpful tips.
+Thank you for signing up to Tom's Hardware. You will receive a verification email shortly.
+There was a problem. Please refresh the page and try again.
+Tom's Hardware is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site (opens in new tab).
+©
+Future US, Inc. Full 7th Floor, 130 West 42nd Street,
+New York,
+NY 10036. 

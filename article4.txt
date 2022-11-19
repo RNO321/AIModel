@@ -1,0 +1,56 @@
+Tom's Hardware is supported by its audience. When you purchase through links on our site, we may earn an affiliate commission. Here’s why you can trust us.
+If you’re looking forfeature-rich Z690 board without paying flagship prices, the MSI MPG Edge WIFI DDR4 is a very good option. While it doesn't have PCIe 5.0 M.2 or DDR5 support, you get four M.2 sockets with easy clips, a premium audio codec and capable 75A SPS MOSFETs for just shy of $300. 
+Premium audio solution
+Four M.2 sockets with EZ clips
+Capable power delivery
+Busy look not for everyone
+‘Only’ Wi-Fi 6
+Why you can trust Tom's Hardware 
+
+
+Our expert reviewers spend hours testing and comparing products and services so you can choose the best for you. Find out more about how we test.
+The MSI Z690 Edge WIFI DDR4 hails from the MPG line of motherboards, in the middle of the company’s product stack. While it may not have all of the bells and whistles that some high-end MEG-class boards do, the MPG line (and the Edge WIFI) all come well-equipped and ready to take on whatever Alder Lake processors dish out, including our i9-12900K test chip.
+The Z690 Edge WIFI DDR4 ($299.99) is at the bottom of the MPG series, with the Z690 Force WIFI and Z690 Carbon WIFI/Carbon EK X we reviewed above it. The board includes capable power delivery, loads of storage (including four M.2 sockets and six SATA ports) premium audio and network solutions, fast USB connectivity, and busy-but-good looks, all for $299.99. There isn’t much to not like here that isn’t subjective. If you want to use the latest and greatest in RAM (and pay a lot more for it), there’s a Z690 Edge WIFI DDR5 option for $329.99 as well.
+Tested performance on our Z690 Edge WIFI DDR4 was good all around, but especially in our Procyon/MS Office suite, where it recorded some of the highest values. The difference between DDR4 and DDR5 is apparent in the 7Zip compression tests and x264 benchmarks, but the board competes well with the other DDR4 models we’ve tested.
+Performance testing while gaming was spot on as well. In short, you’d be hard-pressed to notice a difference between this board and the others we’ve tested.
+Let's look at the MSI MPG Z690 Edge WIFI DDR4 features and performance in more detail and see if this $300 motherboard has a chance to make our best motherboards list. But before we do that, here are the board’s full specs, direct from MSI:
+Inside the Box of the MPG Z690 Edge WIFI DDR4, MSI includes a standard collection of accessories: SATA cables, a USB stick with drivers (a nice touch at this price), and more to help get your system up and running. Here’s a full list of what’s in the box with the board:
+Looking closely at the board, we see a jet black PCB along with heatsinks and shrouds that cover quite a bit of the surface. All of these are a lighter black compared to the board. The dot-matrix styling makes the board look busy to me. There are large heatsinks with plenty of cutouts and surface area that cover the VRMs. This is also where we find the first RGB element: The MSI Dragon is lit up from below, illuminating the branding. The second RGB area, located under the chipset heatsink, lights up the bottom part of the board. Overall, the MPG Z690 Edge WIFI DDR4 looks good, though the busy nature of the design could drive some builders away.
+
+Starting with the top half of the board, we get a closer look at the large heatpipe-connected heatsinks to cool the power delivery. On top, the MSI dragon RGBs are saturated and colorful, while not being too bright and overwhelming. The board gives off a glow that lights up the inside of your case, but does not make it the center of attention. Just above the heatsinks, we spot two 8-pin EPS power connectors (one required) to power the processor.
+Moving past the socket, we run into four unreinforced DRAM slots, which lock the RAM down from both ends. MSI lists support on this DDR4 board up to 5200+ MHz (with one DIMM per channel and one rank) and capacity up to 128GB. Regarding memory speed, your mileage may vary as it depends on the memory kit and the processor’s IMC to reach such speeds. We didn’t run into any issues with our DDR4-3600 or DDR4-4000 kits during testing and, there’s still more headroom available.
+Above the DRAM slots are 4-pin fan headers and RGB headers. In this location, there are CPU_FAN1 and PUMP_FAN1 headers, plus six others on the board for a total of eight. All headers support both PWM and DC-controlled fans. CPU_FAN1 defaults to auto control and outputs up to 2A/24W. PUMP_FAN1 defaults to PWM mode and outputs up to 3A/36W, while the SYS_FAN1-6 headers default to DC mode and output 1A/12W. There are plenty of headers and power to support your cooling ecosystem through the board. You can control the fans through the BIOS as well as MSI’s Center software.
+Next to the CPU and PUMP fan headers are two RGB headers. There are two 3-pin ARGB headers here, while on the bottom edge of the board is a 4-pin RGB and a third 3-pin ARGB. If the RGB lighting on the board isn’t enough, use these to light up your chassis and MSI’s Mystic Light software to control the lightshow.
+Looking down the right edge of the board, we run into another 4-pin fan header, the EZ debug LEDs (the problem area remains lit if there is a problem during the POST process), the 24-pin ATX connector to power the board, a 15-pin front panel USB 3.2 Gen1 (5 Gbps) port, and a front-panel USB 3.2 Gen 2 (10 Gbps) Type-C port.
+
+MSI lists the VRMs as an 18-phase system, with 16 phases dedicated to Vcore. Power comes from the 8-pin EPS connector(s) and onto the common-for-this-platform Renesas RAA229131 20-channel controller. Power then moves to 16 75A Renesas SPS MOSFETs. Some napkin math reveals there’s 1,200A available to the CPU, which is plenty to handle the high-end i9-12900K we use for stock testing and when overclocked using ambient cooling. In short, the power delivery won’t hold you back, your cooling will. This is true on most Z690 boards.
+
+Starting on the bottom left side, we see a full exposed audio section with the Realtek ALC4080 codec. Of the comparable (similarly priced DDR4) boards, this Edge board and the Gigabyte Aero G are the only ones that use a current-generation solution. While this isn’t a big deal as the ALC1220 codec sounds good too, it’s great to see it implemented on a board focused more on the budget side of things. Along with the codec, we spy an audio separation line to keep the audio bits away from the rest of the board (EMI mitigation), and several Chemicon-branded dedicated audio caps.
+There are three full-length PCIe slots in the middle of the board, an x1-size slot, and room for four M.2 modules under the heatsinks. Starting with the slots, The top slot (PCI_E1) sources its lanes from the CPU and runs up to PCIe 5.0 x16 speeds. PCI_E3/E4 get their bandwidth from the chipset and run up to PCIe 3.0 x4 speeds. This configuration supports AMD Crossfire technology for those still rocking multi-card setups.
+Wedged around the PCIe slots are four M.2 sockets. The top socket, M2_1, supports up to 110mm PCIe devices and runs up to PCIe 4.0 x4 (64 Gbps) speeds. The second slot, M2_2, supports up to 80mm PCIe devices up to PCIe 4.0 x4 (64 Gbps) speeds. The bottom two sockets, M2_3 and M2_4, support PCIe and SATA-based modules up to 80mm. In other words, there’s plenty of storage available, including SATA-based M.2, which is missing on some boards. It’s also worth pointing out here here that MSI uses EZ Latch M.2 clips to secure the devices down, rather than the traditional tiny screws. While we don’t change these often, the clips are still much easier to deal with than screws that are easy to lose in the board or your rug.
+Along the right edge, we run into the six SATA ports. Four are native to the board/chipset (SATA5-8) while the other two, SATA A/B, work through the ASMedia ASM1061 controller. The specifications and manual don’t mention lane sharing, so you should be able to run all of the SATA ports and M.2 sockets concurrently. If RAID is your thing, the SATA ports support RAID0/1/10 while the NVMe sockets run RAID0/1/5/10.
+Several headers are placed across the bottom, including USB and SATA ports, RGB, etc. Below is a complete list of all the headers across the bottom of the board:
+
+Moving to the rear I/O area, the preinstalled I/O plate matches the board theme (black) with labels for each port in gray. An MPG symbol reminds you what brand family the Edge is from.
+Working left to right, we first run into a BIOS Flashback button used for updating the BIOS without a CPU. There are two USB 2.0 ports and an HDMI and DisplayPort video output to the right. Next, in red, is a four stack (plus one to the right) of USB 3.2 Gen 2 (10 Gbps) ports. Below the single Type-A is a 20 Gbps Type-C, while the 2.5 GbE port is above that. On the right, we find the Wi-Fi 6 antenna connections and a 5-plug analog audio stack, plus SPDIF.
+MORE: Best Motherboards
+MORE: How To Choose A Motherboard
+MORE: All Motherboard Content
+
+Current page:
+
+Features and Specifications
+
+
+Joe Shields is a Freelance writer for Tom’s Hardware US. He reviews motherboards.
+15 Year Old Passive Cooler Keeps Intel Arc A380 Silent
+RTX 3070 Laptop Deals: All the Models You Can Buy Right Now
+Corsair Voyager a1600 Review: Slick Features, Lagginging Performance
+Get instant access to breaking news, in-depth reviews and helpful tips.
+Thank you for signing up to Tom's Hardware. You will receive a verification email shortly.
+There was a problem. Please refresh the page and try again.
+Tom's Hardware is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site (opens in new tab).
+©
+Future US, Inc. Full 7th Floor, 130 West 42nd Street,
+New York,
+NY 10036. 

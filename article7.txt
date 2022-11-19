@@ -1,0 +1,52 @@
+Tom's Hardware is supported by its audience. When you purchase through links on our site, we may earn an affiliate commission. Here’s why you can trust us.
+The 1TB Samsung T7 Shield maintains a high sequential write speed in a rugged, portable package. Samsung has priced and designed this drive correctly for its niche.
+Consistent write performance
+Strong durability
+Good support, including software and encryption
+Limited to 10Gbps
+Why you can trust Tom's Hardware 
+
+
+Our expert reviewers spend hours testing and comparing products and services so you can choose the best for you. Find out more about how we test.
+Update 21st May 2022: We've updated this article with new testing for the 1TB Samsung T7 Shield Portable SSD on page 2.
+Prime Day Sale - Samsung T7 Shield 2TB Portable SSD: was $289, now $199 at Amazon (opens in new tab)
+The Samsung T7 Shield 2TB features up to 1,050/1,000 of sequential read/write throughput and connects using a USB-C or USB Gen 3 connection. The 1TB is also on sale from $159 down to just $99 (opens in new tab). 
+Original Review published 26th April 2022:
+It’s been more than a year and a half since we reviewed Samsung’s T7 portable SSD, and today we have the new Shield model in the lab. The T7 Shield takes the original formula and focuses on improving its physical endurance, addressing one of our complaints with the T7 that lacked the Ingress Protection (IP) rating that indicates it is shock, water and dust-resistant. This caveat also applied to the T7 Touch we reviewed way back in 2020.
+The drive comes in three colors - black, beige, and blue - inside a shell that’s a bit thicker than its predecessors. This shell is made from an aluminum body covered with rubber, thicker due to the external ribbing that helps protect against drop damage. Additionally, Samsung has added two distinct barriers to protect the USB port, designed to keep out environmental elements like water and dust. Together, all of these factors enable the T7 Shield to meet IP65 certification requirements.
+What else is different about the Shield? Well, a lot is actually similar to the T7. Samsung still uses the DRAM-less Pablo SSD controller paired with an ASMedia ASM2362 bridge chip. AES 256-bit hard encryption is, thankfully, still supported. Many other specifications, such as the three-year warranty, remain the same. The T7 Shield also comes with the same number and type of USB cables. However, Samsung has opted for a newer type of flash, and the shift towards a durable design is substantial.
+Samsung also ensures compatibility with Windows 7 or higher, macOS, and Android Lollipop or higher. Compatibility for mobile devices includes the T7 Shield operating within the USB power specification, which means a maximum power draw of between 2.5W and 7.5W, depending on the port. Regardless, Samsung promises to maintain sufficient performance to meet high-resolution video recording requirements, defined as the ability to write at 900MBps consistently.
+Samsung also made a concerted effort to reduce waste on this product and earned a Product Carbon Footprint label from the Carbon Trust. This essentially means that all steps involved in creating the product and its packaging were designed and verified to minimize the resultant carbon footprint. For example, Samsung uses pulp material with one-third less tray packaging. It’s hard to complain about that.
+This product is otherwise not too exciting, given that it doesn’t improve much on models going back over two years. It’s probably best to focus on what it does better - the T7 Shield has increased durability and guaranteed performance. This makes it an excellent choice for photographers and videographers in the field who want something consistent and reliable. We will see if this bears out in testing.
+The Samsung T7 Shield comes in 1TB and 2TB capacities. It’s nice to see a 2TB option, and considering this drive is ideal for those who likely need capacity, the omission of smaller SKUs is not an issue. The drive is rated for up to 1,050/1,000MBps for sequential reads and writes, respectively. This is quite modest as a result of the 10Gbps bridge chip, especially considering we have 20Gbps and Thunderbolt 3 portable SSDs on the market. However, Samsung ensures 900MBps and 1000MBps sustained performance for the 1TB and 2TB SKUs, respectively, which is particularly excellent for the intended market. This is almost twice as fast as SATA-based portable options.
+The T7 Shield has many features designed around security and durability, including hardware encryption. The drive is also IP65 rated and includes protection against dust, water, shock, and vibration. This includes being able to survive drops of up to three meters. Samsung additionally has a Dynamic Thermal Guard, which adjusts the drive's performance to make sure the casing remains below 57C, which is notably lower than the 60C international standard — this reduces the risk of users getting injured when grabbing the case.
+The T7 Shield comes with both Type-C to Type-C and Type-C to Type-A USB cables, offering flexibility for use with multiple devices. It is also compatible with Samsung’s Portable SSD Software 1.0 and Samsung Magician. The former has editions for Windows, macOS, and Android, while the latter only operates on Windows.
+The Portable SSD Software offers a streamlined UI to help users receive software and firmware updates for their device.  You can also enable a security mode with a password or password and fingerprint. Samsung Magician, on the other hand, is more robust, offering the ability to monitor and benchmark the drive in addition to the features found in the Portable SSD Software.
+Our T7 Shield sample is clad in a nice blue case, clearly thicker than the older T7 models. With its considerable contours, the rubber exterior helps reduce vibration and shock, including from drops. One face has the USB-C connector and indicator light, while the other has a label with a QR code and pertinent specifications, including the model and serial numbers.
+The T7 Shield has thermal padding and an otherwise understated, green PCB. We can see the expected controller, bridge chip, and two NAND flash packages, with notably no DRAM on board.
+Samsung’s Pablo controller, labeled S4LR033, is a DRAM-less four-channel design. This controller is also used in the other T7 models as well as Samsung’s 980 desktop NVMe drive. The bridge chip is ASMedia’s ASM2362, capable of 10Gbps transfer speeds, and Samsung uses it on the other T7 models and many other portable SSDs. The flash as labeled is Samsung K9DVGB8J1B-DCK0, which we have seen on other drives like the Samsung 870 EVO. It’s Samsung’s 128-layer TLC.
+This 128-layer flash tends to come in 512Gb, or 64GB, dies, and each of the NAND packages here is 8Tb or 1TB in capacity. This suggests a 16DP (sixteen dies per package) configuration, similar to what’s in the 870 EVO, for a total of 32 dies at 2TB. Each die is capable of up to 82MBps in its native, non-SLC mode, which is more than sufficient to hit Samsung’s stated speeds. This does require the proper SLC cache design, particularly at 1TB, which is to say it should be more conservative to ensure a high level of performance.
+This flash is also seen in some newer 970 EVO Plus drives — notably slower in TLC mode at 1TB than the original model that launched with less-dense, 92-layer TLC — but, if necessary for interleaving, it also appears in a 256Gb or 32GB per die configuration. Denser dies are particularly useful at higher capacities with four-channel controllers, such as we have here.
+
+Let's see how the drive does in our testing. 
+MORE: Best SSDs
+MORE: How We Test HDDs And SSDs
+MORE: All SSD Content
+
+Current page:
+
+Features and Specifications
+
+
+Shane Downing is a Freelance Reviewer for Tom’s Hardware US, covering consumer storage hardware.
+Best Soldering Irons and Stations
+Raspberry Pi Pico Powers Radio Transmitter
+15 Year Old Passive Cooler Keeps Intel Arc A380 Silent
+Get instant access to breaking news, in-depth reviews and helpful tips.
+Thank you for signing up to Tom's Hardware. You will receive a verification email shortly.
+There was a problem. Please refresh the page and try again.
+Tom's Hardware is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site (opens in new tab).
+©
+Future US, Inc. Full 7th Floor, 130 West 42nd Street,
+New York,
+NY 10036. 

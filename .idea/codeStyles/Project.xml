@@ -1,0 +1,56 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <option name="OTHER_INDENT_OPTIONS">
+      <value>
+        <option name="INDENT_SIZE" value="1" />
+        <option name="TAB_SIZE" value="1" />
+      </value>
+    </option>
+    <option name="ENABLE_SECOND_REFORMAT" value="true" />
+    <HTMLCodeStyleSettings>
+      <option name="HTML_UNIFORM_INDENT" value="true" />
+      <option name="HTML_ALIGN_TEXT" value="true" />
+      <option name="HTML_INLINE_ELEMENTS" value="abbr,acronym,b,basefont,bdo,big,br,cite,cite,code,dfn,em,font,i,kbd,q,s,samp,select,small,span,strike,strong,sub,sup,textarea,tt,u,var" />
+    </HTMLCodeStyleSettings>
+    <ScalaCodeStyleSettings>
+      <option name="MULTILINE_STRING_CLOSING_QUOTES_ON_NEW_LINE" value="true" />
+    </ScalaCodeStyleSettings>
+    <codeStyleSettings language="HTML">
+      <option name="BLOCK_COMMENT_ADD_SPACE" value="true" />
+      <option name="WRAP_ON_TYPING" value="1" />
+      <indentOptions>
+        <option name="USE_TAB_CHARACTER" value="true" />
+        <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
+      </indentOptions>
+    </codeStyleSettings>
+    <codeStyleSettings language="JAVA">
+      <option name="BLANK_LINES_AFTER_IMPORTS" value="2" />
+      <option name="BLANK_LINES_BEFORE_METHOD_BODY" value="1" />
+      <option name="BLANK_LINES_AFTER_CLASS_HEADER" value="2" />
+      <option name="FOR_STATEMENT_WRAP" value="2" />
+      <option name="IF_BRACE_FORCE" value="3" />
+      <option name="DOWHILE_BRACE_FORCE" value="3" />
+      <option name="WHILE_BRACE_FORCE" value="3" />
+      <indentOptions>
+        <option name="USE_TAB_CHARACTER" value="true" />
+        <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
+      </indentOptions>
+      <arrangement>
+        <groups>
+          <group>
+            <type>GETTERS_AND_SETTERS</type>
+            <order>KEEP</order>
+          </group>
+          <group>
+            <type>OVERRIDDEN_METHODS</type>
+            <order>KEEP</order>
+          </group>
+          <group>
+            <type>DEPENDENT_METHODS</type>
+            <order>BREADTH_FIRST</order>
+          </group>
+        </groups>
+      </arrangement>
+    </codeStyleSettings>
+  </code_scheme>
+</component>

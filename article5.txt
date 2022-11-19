@@ -1,0 +1,21 @@
+Tom's Hardware is supported by its audience. When you purchase through links on our site, we may earn an affiliate commission. Here’s why you can trust us.
+Tech was used by the performance demo machines used by AMD.
+More information regarding AMD EXPO Technology came to light via an MSI Computex presentation showcasing its new AMD X670 chipset motherboards. In a slide comparing and contrasting AMD Raphael (Ryzen 7000 series CPUs) with AMD Vermeer (Ryzen 5000 series), MSI revealed that Raphael improves on its predecessor with support for memory overclocking (OC) via AMD EXPO technology. VideoCardz spotted the slide and AMD's earlier references to using this feature to enable support for DDR5-6000CL30 and DDR5-6400CL32 on its test platforms.
+We reported on AMD EXPO about a month ago, when it became clear AMD was developing this technology as its platform's alternative to Intel XMP 3.0 – facilitating the quick and easy application of optimal memory frequency, voltage, and timings for better performance with DDR5 with suitably capable modules. It is thought that EXPO (EXtended Profiles for Overclocking) was a feature known in its development stages by the acronym RAMP (Ryzen Accelerated Memory Profile).
+It is a shame that AMD didn't provide any information about EXPO support with its new processors and chipsets in either its short Computex presentation or associated news posts, videos, or community blog posts. Thus there remain some nagging uncertainties about AMD EXPO, though it seems to have worked fine in the AMD Computex system demos, with the speedy DDR5 modules supporting some of the great performance figures shared by the red team.
+With only the single third-party slide as a source, it is best to sprinkle some salt on this EXPO news, even though MSI is AMD's close and trusted partner. We aren't saying that MSI would seek to deceive, but some other info released by AMD has been put under scrutiny in recent hours as it is not quite correct. One example of fudged figures concerns the Ryzen 7000 TDP range touted by AMD - and repeated in the MSI slide – it seems to have erroneously used the platform power consumption figures (PPT) rather than the processor figures (TDP) and mislabeled this spec. Secondly, AMD said that Ryzen 7000 platforms would support up to 24 PCIe 5.0 lanes, but MSI has said there are 28. Perhaps four lanes are used to connect the CPU and chipset, which would explain the discrepancy.
+
+According to VideoCardz, AMD has asked that the MSI slide mentioning EXPO be removed from places where it has been published. It is attempting to whack-a-mole this info. At the time of writing, we don't know if AMD is looking to censor this slide due to information errors or if it simply wishes to release the information contained at a later date. Hopefully, things like this will be cleared up in the coming days via further official information (news, videos, blogs) from AMD and its partners.
+Please click through the link if you missed our extensive AMD Ryzen 7000 CPU and 600 series motherboards launch coverage yesterday. We also published supplementary posts regarding AMD Mendocino APUs for value thin and light designs coming later this year, AMD Smart Access Storage, and an overview of the dashing new AMD Socket AM5 Asus ROG Crosshair X670E Extreme motherboard.
+Mark Tyson is a Freelance News Writer at Tom's Hardware US. He enjoys covering the full breadth of PC tech; from business and semiconductor design to products approaching the edge of reason.
+Micron Cuts DRAM and NAND Output to Lessen Price Drops
+Global DRAM Revenue Dropped 30% Last Quarter in Unprecedented Crisis
+FCC Holds ISPs' Feet to the Fire With Broadband 'Nutrition Labels'
+Get instant access to breaking news, in-depth reviews and helpful tips.
+Thank you for signing up to Tom's Hardware. You will receive a verification email shortly.
+There was a problem. Please refresh the page and try again.
+Tom's Hardware is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site (opens in new tab).
+©
+Future US, Inc. Full 7th Floor, 130 West 42nd Street,
+New York,
+NY 10036. 

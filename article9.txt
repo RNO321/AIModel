@@ -1,0 +1,97 @@
+Tom's Hardware is supported by its audience. When you purchase through links on our site, we may earn an affiliate commission. Here’s why you can trust us.
+The Asus Zenbook S 13 OLED shows off the power of AMD's latest processors and looks great doing it, but it runs warm and you may need a dongle because it's light on ports.
+Slim, clean design
+Long battery life
+Strong productivity performance
+Runs warm
+Short on ports
+Why you can trust Tom's Hardware 
+
+
+Our expert reviewers spend hours testing and comparing products and services so you can choose the best for you. Find out more about how we test.
+If processors tick and tock towards faster performance and increased efficiency, laptops follow a similar pattern, getting smaller and thinner (It's definitely been true on our list of the best ultrabooks). So it's not a huge surprise that the Asus Zenbook S 13 OLED (expected to start at $1,099, tested at $1,499) is a trim, attractive notebook, and among the first to carry the latest from AMD: the Ryzen 7 6800U.
+The new Ryzen chip proves potent, and the Asus laptop is more than thin: it also has a high-resolution OLED display and surprisingly long battery life, which is a rare combination.
+But that's not to say there aren't any sacrifices. When you get to a certain size, you can only fit so many ports. And hey, the heat has to dissipate somewhere…
+The Asus Zenbook S13 really is a lovely little laptop. It's not pure aluminum, like some premium designs, but rather a lighter, more plasticky-feeling magnesium aluminum alloy. Still, it looks fashionable. We reviewed the Zenbook in its "ponder blue" colorway, which in some cases is dark enough to look gray.
+The lid is sparse, with Asus' new, Star Trek-looking A logo right aligned and a small "Asus Zenbook" wordmark.
+
+Let us stop, for a second, to talk about the hinge. Reader, it is a beautiful hinge. Of all of the blue-gray parts of this laptop, it is the most blue. It's attached to a long, circular bar alongside the back of the gadget, creating a piece that looks and feels mechanical on an otherwise ordinary object.
+The display is slightly longer than that hinge, lifting the keyboard slightly to what Asus claims is a more ergonomic angle when the notebook is open. 
+On the keyboard, you may notice that the power button has a silver ring around it. That signifies that it's also a fingerprint reader (it worked fine throughout my testing).
+
+The 16:10 display has thin bezels on its sides with slightly bigger ones on the top and bottom. The deck is the same dark blue cover as the lid, and the keys have white backlighting. 
+This thin notebook is light on ports. There are three USB Type-C ports  (two on the left, one on the right) and a 3.5 mm headphone jack (on the right). That's it. Asus does include a USB-C to USB-A adapter in the box, but those who need HDMI or an SD card reader will need to go buy some dongles.
+
+Of course, a lack of ports is getting to be common on thin notebooks, and the Zenbook S 13 OLED is thin indeed. It measures 11.68 x 8.29 x 0.59 inches and weighs 2.43 pounds. That's smaller than the 13-inch MacBook Pro (11.97 x 8.36 x 0.61 inches, 3 pounds). The Lenovo Yoga 9i Gen 7, an ultra-slim convertible featuring Intel's latest CPU, is 12.52 x 9.06 x 0.6 inches and 3.09 pounds, though it also has a bigger 14-inch screen. Last year's Lenovo IdeaPad Slim 7 Carbon, which had a Ryzen 5000 CPU, was 12.4 x 8.5 x 0.59 inches and 2.4 pounds.
+The Zenbook S 13 OLED marks the first time we've seen a Ryzen 6000 series processor. Our review unit came with an AMD Ryzen 7 6800U, an 8-core / 16-thread processor with a base clock of 2.7 GHz and a max boost clock of up to 4.7 GHz.
+On Geekbench 5, the Zenbook achieved a single-core score of 1,517 and a multi-core score of 7,606. That's neck and neck with the M1 in the 13-inch MacBook Pro, which has a slightly higher single-core score (1,733) and a slightly lower multi-core score (7,584). The Lenovo Yoga 9i Gen 7, with an Intel Core i7-1260P, was ahead on single-core (1,722) but lower on multi-core (7,150). 
+
+For comparison's sake, the Lenovo IdeaPad Slim 7 Carbon has a last-gen Ryzen 7 5800U, which unsurprisingly put up worse numbers.
+
+On the file transfer test, the Zenbook proved to be blazing fast. It transferred 25GB of test files at a rate of 1,543.86 MBps, just beating the Yoga 9i Gen 7 (1,506 MBps) and speeding past both the MacBook Pro and IdeaPad. 
+It took eight minutes and 15 seconds for the Zenbook S 13 OLED to transcode a 4K video to 1080p. That's faster than last-gen, for sure, and also beats the Intel-based Yoga 9i (12:18). Only the MacBook Pro was faster at 7:44.
+
+We stress test ultrabooks by running Cinebench R23 in a cycle twenty times. In this case, the Ryzen 7 6800U started with an impressive score of 10,232. 76, quickly dropped to the low 9,700's, and slowly drifted through the runs down to the low 9,300's. A reduction in score from the first run isn't a surprise, but it sounds like this chip could use some beefier cooling to keep it running at its strongest.
+During the stress test, the CPU ran at an average of 2.8 GHz across its 8 cores, with an average temperature 88 degrees Celsius 190.4 degrees Fahrenheit.  That's just a bit over base clock when under load for about half an hour.
+We don't have a lot of comparable test results for gaming performance right now, but we did want to test how well the Ryzen 7 6800U could run games. We targeted 1080p at medium settings and tested Borderlands 3, Red Dead Redemption 2, and Shadow of the Tomb Raider. We've collected the results in a table for reference.
+1920x1080 and medium quality was still asking just a bit too much of the integrated Radeon 680M, but adjusting the resolution to 1600x900 should get most games into the 30 fps or higher range. These are also relatively demanding games, so lighter fare shouldn't be a problem.
+
+We did run some comparison tests against a few other laptops we had handy, with Intel Iris Xe (96 EUs) and a GeForce MX330. The 680M was about 80% faster on average, though do note the more recent MX450 and MX550 are quite a bit more potent. At the same time, the Ryzen 7 6800U was able to do this within a 15W power envelope, and it's certainly more capable than the special Van Gogh processor in the Steam Deck — it has twice as many CPU cores, running the newer Zen 3+ architecture, paired with 12 RDNA 2 compute units (50% more than the Steam Deck).
+
+We'll be doing more graphics performance comparisons of competing solutions going forward, using these same settings. Ideally, we'd like to see games keeping minimums above 30 fps at 1080p, but this isn't actually a gaming laptop as such. It just happens to work moderately well as a lightweight gaming solution if you keep your expectations in check.
+If you like deep blacks and pops of color, the Zenbook S 13 OLED's 2880 x 1800 touchscreen delivers. I had no complaints when I used it; that's for sure.  But it's not as bright or vivid as some other panels with the same technology that we measured with our colorimeter and lightmeter.
+
+I used the 13.3-inch screen to watch Tears of Steel, our 4K test video. Sure, this screen isn't 4K, but I also needed something better than the 1080p video I watched on it in my spare time to push this thing. That short film has lots of neon colors, including pinks and greens that popped off black walls in a lab.
+
+The Asus Zenbook S 13's OLED screen proved decently vivid at 126% of the sRGB color gamut and 89.3% of the DCI-P3 gamut. That's more vibrant than the LED screen on the 13-inch MacBook Pro, but the OLED panels on Lenovo's Yoga 9i Gen 7 and IdeaPad Slim 7 Carbon won out on both color spectrums.
+At 321 nits of brightness, the Zenbook S 13 is absolutely usable. But the MacBook won out again at 435 nits, while the Yoga 9i (352 nits) and Ideapad Slim 7 Carbon (369 nits) were also both a bit brighter.
+Asus has gone with a 16:10 aspect ratio here, which is nice because it provides more vertical real estate than a standard 16:9 screen. I think Asus could do one better and go 3:2 for even more vertical space here, like Microsoft's Surface lineup, though that's a personal preference of mine.
+Ryzen continues to show how efficient an x86 platform can be on battery life. The Zenbook S 13 OLED lasted for 11 hours and 2 minutes on our battery test, which browses the web, streams video and runs graphics tests, all with the display set to 150 nits and while connected to Wi-Fi.
+
+Still, Arm proved even longer-lasting. The 13-inch MacBook Pro with Apple's M1 chip ran for 16:32. But the Zenbook proved to be a big improvement over the Yoga 9i with Intel's 12th Gen P-series and a nice update from the IdeaPad, with a previous-gen AMD chip, at just under 10 hours.
+If you like your keyboards with a bit of click and clack, you'll enjoy typing on the Zenbook. The keys, with 1.4 millimeters of travel, make an audible tactile sound that people around you will hear. There's the slightest hint of a tactile bump while pressing down.
+When I used the laptop, I felt that the laptop was a bit warm to the touch. That’s not in a way that would burn my fingers or even stop me from using it, but more noticeable than on some other laptops I've used.
+The touchpad is nice and spacious, which I appreciate. There's plenty of room whether you're just navigating a web browser or performing Windows 11's most complicated three or four-finger gestures. It's got a bit of drag when you scroll, but nothing I couldn't get used to.
+
+This Zenbook, like many others, also has Asus' "NumberPad" feature built in the trackpad. With a tap in the corner of the surface, you can turn on a touch-based numberpad, or, in the opposite corner, also launch the calculator. I get that some people may want a dedicated number pad for productivity, especially if they work in a lot of spreadsheets, but after years of this feature I'm still convinced this isn't the best implementation. It's clunky and makes me look away from the screen.
+While Asus has tuned the stereo sound system in a way that accomplishes incredible volume, it's not as even as I like my music to be. 
+I listened to MUNA's "Everything But Me" in a conference room, which was filled with sound from the two speakers. But the Zenbook prioritized the vocals at the expense of everything else, and I found that the guitars, keyboards and drums kind of melded together.
+This focus on voice is good for calls, but less for jamming out to music on Spotify while you work. If you prefer some control, the Dolby Access app lets you change the EQ. I found that the "detailed" equalizer setting gave me a bit more of the snappy drums and melodic keyboards I like from my music.
+The good news is that, yes, technically, the Zenbook S 13 OLED is user upgradeable, with some repairable parts. The bad news is that I get the sense that Asus really doesn't want you to open this thing.
+There are seven tiny Torx screws on the underside of the Zenbook S13 OLED. Fine, not everyone has a Torx driver, but it ends up it's a bit of a fakeout. There are two more screws underneath the laptop's back feet. I was able to peel these back carefully, but it's a risk. When laptop manufacturers put screws under adhesive feet, owners risk tearing them when trying to remove them. Also, adhesive feet are never as good after they've been reapplied. I would recommend people don't peel them off unless they have no choice, or to at least consider a professional repair service if they don't have much experience in repair. 
+Asus has seven visible screws on the chassis already; I don't know why this company is so dedicated to putting extra screws where people can't easily reach them.
+
+Once the screws are all out, I made quick work of the bottom casing with a pry tool. Most of the inside consists of a battery and a small motherboard. The RAM is soldered down, but the SSD and networking card are both replaceable.
+To get an idea just how hot the Zenbook S 13 OLED runs, we took skin temperatures during our stress test, running Cinebench R23. 
+
+During that gauntlet, the center of the keyboard measured 39 degrees Celsius (102.2 degrees Fahrenheit). This is a little toasty, and I could feel heat on the keycaps even in normal use. It was never too uncomfortable to use, however. Meanwhile, the touchpad measured 32.8 degrees Celsius (91 degrees Fahrenheit), which is warm for a touchpad, but not particularly noticeable to me in regular use.
+
+The hottest point on the bottom of the laptop measured 49.5 degrees Celsius (121.1 degrees Fahrenheit, though most of the surface was closer to what you got on the keyboard.
+
+Asus is using a 720p webcam on the Zenbook S 13 OLED. While higher resolution doesn't necessarily mean better image quality, I'd still like to see a move to 1080p.
+
+The webcam on the Zenbook S 13 skews warm. In a well-lit room, my red shirt, which is already quite bright, came off orange, while my skin tone also had a very slight Oompa Loompa tinge that was better when I wasn't next to a window. Is it usable? Sure. Is it great? No.
+While Asus isn't too heavy-handed with its software, its preloads doesn't strike me as particularly useful. MyAsus is perhaps the best of them, with links to warranty information, product registration and a handful of options. But some of those changes can be made elsewhere in Windows. The app also has a promotions tab for partner deals, which is the kind of advertising that doesn't befit a premium notebook.
+An app called GlideX lets you use a tablet as a second screen. Notably (perhaps scarily, to some), it asks if you want to use its "comprehensive" China service or its global version. You need to install an app on an Apple or Android device to get it to work. I was able to get it to run on my iPhone, though I can't say I'd recommend it, as it's so small. Some parts of the software require a monthly subscription, like high quality, ad-free streaming. 
+ScreenXpert is designed to let you manage which apps run on which displays, but I'm of the opinion that Windows 11 handles that pretty well on its own now. (This wasn't the case in Windows 10). It also adds quick toggles to the side of your screen to turn your microphone and camera on or off.
+Like many Windows laptops, the Zenbook S 13 ships with trial antivirus. In this case, it's McAfee Live Safe. Asus has also added a link to McAfee's website in the Edge browser, along with links to its own software. Amazon Alexa is also on board, though you need to sign in with an Amazon account to use it.
+For everything AMD, there's Radeon Software, which shows component usageand activate Radeon-specific features like Chill (to reduce FPS in order to save on power) or Anti-Lag (to tamper input lag).
+Our review unit didn't have much of the bloat that comes with Windows 11, but I wouldn't be surprised if final shipping units in Q3 of this year have some music, social media apps or games from the Microsoft Store.
+We tested the Zenbook S 13 OLED with a Ryzen 7 6800U, 16GB of RAM and 1TB of storage. Asus tells me that the laptop will be available on Amazon in Q3, with a price coming closer to launch. AMD, however suggested that the suggested retail price for this unit would be $1,499.
+
+AMD also told us that a model that's nearly identical except for a smaller 512GB SSD should start at $1,299. The base model, with a Ryzen 5-6600U and 8GB of RAM, 512GB of storage and a non-touch display is expected to be $1,099.
+The Asus Zenbook S 13 OLED is an ultralight, ultrathin notebook that happens to play home to AMD's latest processors. It's a laptop that's sleek and attractive, but also powerful — as long as you're willing to put up with some heat.
+If you want something with a wider variety of ports while still being sleek and slim, the Lenovo Yoga 9i, a 14-inch Intel-based 2-in-1, may be up your alley. But in our testing, it was slightly behind in performance and more expensive when similarly configured. It did, however, have a slightly higher quality OLED display.
+So if portable power (at least, as much as you can cool with a single fan) is on your list, the Zenbook S is a solid option, as long as you can put up with dongles and a little excess warmth.
+Andrew E. Freedman is a senior editor at Tom's Hardware focusing on laptops, desktops and gaming. He also keeps up with the latest news. A lover of all things gaming and tech, his previous work has shown up in Tom's Guide, Laptop Mag, Kotaku, PCMag and Complex, among others. Follow him on Twitter: @FreedmanAE
+Arm SoCs to Grab 30% of PC Market by 2026: Analyst
+New Intel Driver Delivers Up To 8 Percent Performance Uplift On Arc GPUs
+TSA Found a Double-Edged Knife Hidden in a Gaming Laptop
+Get instant access to breaking news, in-depth reviews and helpful tips.
+Thank you for signing up to Tom's Hardware. You will receive a verification email shortly.
+There was a problem. Please refresh the page and try again.
+Tom's Hardware is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site (opens in new tab).
+©
+Future US, Inc. Full 7th Floor, 130 West 42nd Street,
+New York,
+NY 10036. 

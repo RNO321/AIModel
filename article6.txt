@@ -1,0 +1,105 @@
+Tom's Hardware is supported by its audience. When you purchase through links on our site, we may earn an affiliate commission. Here’s why you can trust us.
+The Lenovo Legion 5i Pro is a powerful gaming laptop that's primed for esports with a bright 165 Hz display and strong performance, but you'll want to bring headphones for better audio and uninstall the extra software.
+Strong gaming performance
+Bright 165 Hz display
+Surprisingly long battery life for productivity
+Weak audio
+Too much bloatware pre-installed
+Why you can trust Tom's Hardware 
+
+
+Our expert reviewers spend hours testing and comparing products and services so you can choose the best for you. Find out more about how we test.
+Some gamers favor high refresh rates. Others favor higher resolutions. The Lenovo Legion 5i Pro ($1,999.99) splits the difference with a 2560 x 1600, 165 Hz display. This primes it to be a solid esports machine while also offering the fidelity for effects-driven games.
+
+It's got some power behind it thanks to an Intel Core i7-12700H and an Nvidia GeForce RTX 3070 Ti, which performed well in our testing, albeit thanks to some cooling with very loud fans.
+Lenovo needs to remove some bloatware from its install of Windows 11, and the speakers aren't incredible. But with some headphones and patience to uninstall programs, the Legion 5i Pro is a strong jack of all gaming trades that can tangle with the best gaming laptops.
+It's in vogue these days for companies that make gaming laptops to take a slightly less aggressive approach to design. While the Legion 5i Pro is still unmistakably a gaming laptop, its gray and black colorways don't grab too much attention.
+
+The dark gray lid has the Legion logo in a mirror shine, and two angular lines for a bit of attitude.
+You may not really notice the gamer aesthetic until you lift the lid and the keyboard lights up with four-zone RGB. While the keyboard deck isn't made of metal, it feels sturdy and reinforced.
+
+The 16-inch display is surrounded by small bezels one each side, which allows for a taller, 16:10 aspect ratio. The webcam is in a housing that sticks out ever so slightly, and acts as an easy way to open the notebook with a single thumb.
+There are few ports on Legion's sides (a Thunderbolt 4 and USB Type-C port on the left; a USB Type-A port, 3.5mm headphone jack and a webcam "e-shutter" kill switch on the right). Most of them are on a bump that protrudes from the rear of the notebook. There, you'll find an Ethernet jack, two more USB Type-A ports and another USB-C port, an HDMI port and the power jack. This lets you keep the laptop plugged into a monitor, the wall and wired internet connection without making a mess of cables from the sides.
+The Legion 5i Pro is 5.49 pounds and measures 14.17 x 10.4 x 1.05 inches. That's heavier and thicker than the Razer Blade 15, which is 4.4 pounds and 13.9 x 9.25 x 0.67 inches, as well as the Gigabyte Aero 16 at 5.07 pounds and 0.88 inches thick. It's unsurprising that the Gigabyte Aorus 17 XE4, with a 17-inch screen, is heavier and larger at 5.95 pounds and 1.1 inches thick.
+Lenovo outfitted our review unit with an Nvidia GeForce RTX 3070 Ti and an Intel Core i7-12700H, making for strong gaming performance at both 1080p and the Legion's native 2560 x 1440 (1440p).
+I'm finally getting to Cyberpunk 2077 now that its latest patches are out. I wanted to use the fancy lighting effects, so I downgraded the graphics to 1080p while using the Ray Tracing: Ultra preset. As I found my way off the street and into a gang's warehouse, the game typically ran between 62 and 65 frames per second, but sometimes as low as 52 fps in detailed scenes with lots of characters.
+On the Shadow of the Tomb Raider benchmark (highest settings), the Legion played at 110 fps at 1080p and 69 fps at 2560 x 1600. The Razer Blade 14, also with a 3070 Ti, fell behind at 90 fps at 1080p and 61 fps at its native 1440p. The Aorus 17 XE4 (also using an RTX 3070 Ti) hit 89 fps at its native 1080p, while the Gigabyte Aero 16, which when we reviewed it noted was using a lower power version of the same GPU, was the worst of the bunch.
+The Legion played Grand Theft Auto V (very high settings) at 131 fps at 1080p and 78 fps at 2560 x 1600, again coming in ahead of the Blade (104 fps at 1080p and 67 fps at 1440p) and the Aorus (89 fps at 1080p).
+On Far Cry 6 (ultra settings), the Legion's lead was a bit smaller. It played at 88 fps at 1080p and 70 fps at 2560 x 1600, while the Blade played at 83 fps at 1080p and  69 fps at 1440p.
+But the Legion 5i Pro was at the top of the pack on Borderlands 3 at "badass" settings (99 fps at 1080p, 68 fps at 1600p), beating the closest competition by ten frames at FHD. And on Red Dead Redemption 2 (medium settings), the Legion played the benchmark at 81 fps at 1080p, coming in five frames ahead of the Aorus 17 XE4.
+But a benchmark is short. That's why we also run a stress test on gaming laptops. We cycle through 15 loops of Metro Exodus, which simulates about half an hour of game play. The Legion ran the game, on its RTX preset, at an average of 58.23 frames per second, and it was remarkably stable throughout the 15 runs.
+During that stress test, the CPU's performance cores ran at an average of 4.27 GHz while the efficiency cores measured 3.52 GHz. The CPU package measured 76.63 degrees Celsius. Meanwhile, the GPU ran at 1.577 GHz and measured 74.3 degrees Celsius.
+Our Legion 5i Pro came with an Intel Core i7-12700H, 16GB of DDR5 RAM and a 512GB SSD, so we expected it to be a capable productivity machine when it wasn't gaming.
+On Geekbench 5.4, an overall performance test that leans heavily on the CPU, the Legion achieved a single-core score of 1,596 and a multi-core score of 13,008. While that was the lowest single-core score of the bunch, it also had the highest multi-core score. The Razer Blade (Core i7-12800H) sputtered at 9,263, while the Aorus XE4 (11,979) and Aero 16 (11,819) were close but still meaningfully behind.
+On our file transfer test, the Legion 5i Pro copied 25GB of test files at a rate of approximately 925.46 MBps, just behind the Razer Blade 15 but also slower than the Aorus (1,475.15 MBps) and Aero (1,037.5 MBps).
+Lenovo's laptop came out ahead on our Handbrake test, in which we have notebooks transcode a 4K video down to 1080p resolution. The Legion completed the task in four minutes and 29 seconds, more than a minute faster than competing notebooks.
+Lenovo has opted for a 16-inch, 2560 x 1600 display on our review unit. It supports Nvidia G-Sync to prevent screen tearing and has a refresh rate of 165 Hz.
+
+When I used the Legion to play Cyberpunk 2077, a large portion of my gameplay took place in a darkened, abandoned building where a crew was hiding out. The screen was bright enough for me to see without futzing with in-game settings. The display looked best when neon red signs lit my path. Some other parts of the level, like yellow protection suits in muted gray lockers, didn't have the same kind of pop.
+
+I rarely went over 60 Hz in my playthrough, but the 165 Hz refresh rate supported the gameplay when it did. I'd be more likely to see that level of performance at lower settings or in esports titles. 
+When I used the Legion 5i Pro to watch the trailer for Thor: Love and Thunder, I appreciated the pops of red and orange as Thor walked through flames, and how a sunset contrasted with a tree in silhouette in the foreground. Greens and blues, while clear, didn't pop out the same way, like when Thor flies over a city with floating greenery. Viewing angles on the system are excellent.
+
+According to our colorimeter, the Legion's display covers 113% of the sRGB color gamut and 80% of the DCI-P3 color gamut. That's second only to the Razer Blade 15 (123% and 87.1%), while the two Gigabytes were within range of the Legion.
+On our lightmeter, the Legion 5i Pro measured 474 nits of brightness, making it far more luminous than the Aero 16 (366 nits, the next brightest) and the rest of the pack.
+Lenovo's keyboard is comfortable with decent tactile feedback. Sure, it's not mechanical, but its 1.5mm of key travel meant I didn't bottom out, and the mechanism is quiet enough not to bother others nearby. It feels a bit like a ThinkPad keyboard, which is high praise.
+
+On the Monkeytype typing test, I reached 117 words per minute, which is a bit over my usual speed, with a 2% error rate. 
+The keyboard includes a full number pad jammed in on the side, but I appreciated the dedicated media keys that Lenovo put above it.
+
+The touchpad is more than spacious enough for Windows 11's four-finger gestures (though most require only 3). It's plastic and feels like it, but it's good enough. Gamers will most likely be using a mouse most of the time.
+Lenovo outfitted the Legion 5i Pro with a pair of 2W speakers, which get the job done, though they're not amazing.
+
+On The Maine's "Love You a Little," I found the vocals, cymbals and guitars sounded fine, but drums and bass were exceedingly difficult to hear in some spots. The music got nice and loud, though distorted a bit at the highest volumes. The mid-80% range is the sweet spot.
+
+When I played Cyberpunk 2077, vocals and squealing car tires sounded great, but gunfire in the game's combat situation lacked punch. 
+Nahimic Audio comes installed on the laptop, with music, movie, communication and gaming presets. I would recommend most people leave it at default settings, as I found messing with the bass and treble didn't help me much.
+To get into the Legion 5i Pro to repair or upgrade it, you need to remove ten Phillips head screws from the  bottom of the notebook. They're really small; I used a size 000 bit.
+Note that the four screws closest to the palmrest are shorter than the rest, and make sure you don't lose them. (One of them was really tight, but with some patience, it came out. Be careful not to strip screws.)
+The next step is to pry off the bottom cover. This is by far the most difficult part. The plastic bottom's clips hold on tight. I needed to use a mix of guitar picks and dedicated prying tips. Eventually, it all pulled off, but this took me significantly longer than most other laptops need to open.
+
+That being said, once you get in, there's plenty to upgrade. With the exception of the battery, the RAM, SSD and networking card are all under heat shields.   
+
+And Lenovo is using complicated heat protection that I haven't seen before. The two SSD shields each require removing three Phillips head screws. The shield on the left goes over a heat pipe while the one on the right also covers the networking card. If you actually replace anything, you'll need to remove additional screws.They're not hard to remove, but more complicated than I've come to expect. I recommend some tweezers to place the screws back for reinstallation.
+Our unit only had a single 512GB SSD, so our leftmost SSD slot was empty, allowing for additional storage in the future if necessary.
+The RAM's heat shield can be removed easily enough with your fingers and then replaced the same way. There are two slots to add or replace RAM.
+
+I don't usually expect to see a gaming laptop last for a meaningful amount of time off of the charger, but the Legion surprised me. On our test, which browses the web, runs graphics tests and streams video over Wi-Fi, all with the screen at 150 nits of brightness, it lasted seven and a half hours. That's not a full day, but not bad for the category.
+The next longest was the Aero at 5:04, with the Blade and Aorus trailing behind at 4:45 and 4:06, respectively.
+This system's fans run loud. When I ran our Metro Exodus stress test, the Legion sounded like a small vacuum cleaner.
+At the center of the keyboard, between the G and H keys, the laptop measured 36.4 degrees Celsius (97.52 degrees Fahrenheit), which isn't too bad for a gaming laptop. At least those loud fans are doing something. Meanwhile, the touchpad was a cooler 29.7 degrees Celsius (85.46 degrees Fahrenheit), though most gamers will use a mouse. While I played games on the Legion 5i Pro, my fingers got a bit steamy, but I never found it so uncomfortable that I couldn't use it.
+
+The hottest point by far was on the bottom of the laptop, where the notebook takes in air. It measured 48.7 degrees Celsius (119.66 degrees Fahrenheit).
+
+Despite the small camera bump, Lenovo still has a 720p camera above the Legion 5i's display. It's fine in good lighting, though nothing to brag home about.
+
+In a well-lit office, I found that the colors in my green, blue and yellow shirt were a bit muted. Perhaps the camera couldn't adjust well for the many windows, though I wasn't in much direct light. There was a bit more detail here than in some other 720p cameras, like in my hair. You could use this for a call, though I'd still recommend an external webcam if you can swing it.
+Lenovo is slowly starting to add more software than it used to. It's not a development I like.
+
+The primary app is still Lenovo Vantage, though on this laptop it's skinned with Legion branding.  It shows CPU, GPU, and SSD statistics, lets you change thermal profiles, customize the four-zone RGB keyboard lighting and lots more. But Lenovo has also added a new app, Smart Noise Cancellation, to adjust the angle at which the microphone picks up noise. Another piece of software, Lenovo Hotkeys, appears to showcase the function keys and some shortcuts, but doesn't let you customize them at all.
+
+Additionally, Lenovo has put three shortcuts to its website on the desktop: one to customer support, one to your warranty status and one to buy more Lenovo Legion gaming products. In the Edge browser, there are bookmarks to Lenovo, its support page, and McAfee Security.
+
+On top of all of that, Nahimic is on board for audio, which I don't mind. But there's also Tobii Horizon, which can use your camera to detect your presence and change privacy settings, screen brightness, and more. 
+At least the Legion seemed to be largely free of the bloat that typically comes with Windows 11, with the exception of trials of Microsoft Office applications.
+Lenovo sells the Legion 5i Pro with a one-year warranty.
+We tested the Lenovo Legion 5i Pro in a Walmart-exclusive configuration that costs $1,999.99 with an Intel Core i7-12700H, Nvidia GeForce RTX 3070 Ti, 16GB of RAM and a 512GB SSD. 
+
+On Lenovo's website, a model identical to ours with the exception of a pair of 1TB PCIe Gen 4 SSD (totaling 2TB) is $2,469.99.
+ The Lenovo Legion 5i Pro is halfway between a traditional, top-of-the-line gaming PC and a high-refresh model meant for esports. With a 165 Hz, 2560 x 1600 display, you can get high frame rates or decently high resolution. The RTX 3070 Ti and Alder Lake definitely pack a punch together.
+
+We've seen a number of laptops with 1080p screens lately, suggesting a lack of others in the market. Those who want to go all-in on esports might want to find a 300 Hz option. If you want something similar but sleeker, the Razer Blade 15 is a good option, though its performance is slightly lesser.
+
+Overall, the Legion 5i Pro is a good jack of all trades, as long as you don't mind fan noise.
+Andrew E. Freedman is a senior editor at Tom's Hardware focusing on laptops, desktops and gaming. He also keeps up with the latest news. A lover of all things gaming and tech, his previous work has shown up in Tom's Guide, Laptop Mag, Kotaku, PCMag and Complex, among others. Follow him on Twitter: @FreedmanAE
+Apple Will Source Chips From TSMC's Arizona Fab
+Rode NT-USB+ Review: Who Needs an XLR Mic?
+RTX 4090 Founders Edition Card Falls Victim To 16-pin Meltdown
+Get instant access to breaking news, in-depth reviews and helpful tips.
+Thank you for signing up to Tom's Hardware. You will receive a verification email shortly.
+There was a problem. Please refresh the page and try again.
+Tom's Hardware is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site (opens in new tab).
+©
+Future US, Inc. Full 7th Floor, 130 West 42nd Street,
+New York,
+NY 10036. 
